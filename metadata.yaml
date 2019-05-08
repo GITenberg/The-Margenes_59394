@@ -1,5 +1,8 @@
 _repo: The-Margenes_59394
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59394-h/images/cover.jpg
 creator:
   author:
     agent_name: DeFord, Miriam Allen
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35591
     wikipedia: http://en.wikipedia.org/wiki/Miriam_Allen_deFord
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59394#The-Margenes
 gutenberg_issued: '2019-04-29'
 gutenberg_type: Text
 identifiers:
